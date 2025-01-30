@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer
 --------------
 
-If you are looking for a Junior Frontend Developer or Game Developer, Here I am!
+If you are looking for a Junior Developer, Here I am!
 
 * 🌍  I'm based in Türkiye
-* 🚀  I'm currently working on [AkIn Project](http://github.com/sabisay/AkIn_Games)
-* 🧠  I'm learning AI in Game Develpment
-* 🤝  I'm open to collaborating on Computer Game Development, Hyper-Casual, Cinemachine
+* 🚀  I'm currently working on [private RAG Projects based on this repo]((https://github.com/sabisay/RAG_Techniques))
+* 🧠  I'm learning Unreal Engine, AI, Multi Agent Systems and good at Unity.
+* 🤝  I'm open to collaborating on Game Development, Simualtion and VR Technologies, Cinemachine
 
 ### Skills
 
