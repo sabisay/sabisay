@@ -7,7 +7,7 @@ Game Developer
 If you are looking for a Junior Developer, Here I am!
 
 * 🌍  I'm based in Türkiye
-* 🚀  I'm currently working on VR technologies with Unity.
+* 🚀  I'm currently working on <b>VR technologies with Unity</b>.
 * 🧠  I'm learning Unreal Engine, AI, Multi Agent Systems and good at Unity.
 * 🤝  I'm open to collaborating on Game Development, Simualtion and VR Technologies, Cinemachine
 
